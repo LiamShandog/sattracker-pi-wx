@@ -1,0 +1,1 @@
+# Monitors Pi health (e.g., temp, CPU) or solar power (if added)
