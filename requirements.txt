@@ -1,2 +1,4 @@
 # List of Python dependencies (e.g., RPi.GPIO, requests, pyephem)
 
+requests
+skyfield

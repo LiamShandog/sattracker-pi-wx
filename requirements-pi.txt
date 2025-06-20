@@ -1,0 +1,3 @@
+# pi specific packages, still need requirements.txt on pi
+
+RPI.GPIO
